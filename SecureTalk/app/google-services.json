@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281979327559",
+    "project_id": "talk-52b9e",
+    "storage_bucket": "talk-52b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281979327559:android:1862e880a0b52b9be0cd62",
+        "android_client_info": {
+          "package_name": "com.comityj.securetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281979327559-er3o4kbsdpftc9hoh607nfhgpbcoqk50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpLVAbtcS1j9qVdrO40BQAC3hM4rxce8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281979327559-er3o4kbsdpftc9hoh607nfhgpbcoqk50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
